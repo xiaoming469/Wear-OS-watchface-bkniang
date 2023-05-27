@@ -7,3 +7,4 @@ Wear OS 表盘项目-布卡娘
 <br>表盘简介：萌萌哒的布卡娘~在屏幕上舞动哦！
 <br>项目中使用到的字体：[Mengshen(萌神)-pinyin(拼音)-font](https://github.com/MaruTama/Mengshen-pinyin-font "Mengshen(萌神)-pinyin(拼音)-font")
 <br>个人网站：[小铭の站](https://xm469.top "小铭の站")
+![布卡娘预览图片](https://github.com/xiaoming469/Wear-OS-watchface-bkniang/blob/master/%E5%B8%83%E5%8D%A1%E5%A8%98.png "布卡娘预览图片")
